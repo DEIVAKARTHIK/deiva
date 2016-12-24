@@ -2,6 +2,7 @@
 
 int main(void) {
 	int n;
+	printf("\n enter the number");
 	scanf("%d",&n);
 	if(n!=0)
 	{
