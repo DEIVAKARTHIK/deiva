@@ -6,8 +6,8 @@ char ch;
 cout<<"Enter a char "<<endl;
 cin>>ch;
 if((ch >= 'a' && ch <='z') || (ch >='A' && ch <= 'Z'))
-cout<<ch<<" is an alphabete";
+cout<<ch<<" is an alphabet";
 else
-cout<<ch<<" is not an alphabete";
+cout<<ch<<" is not an alphabet";
 return(0);
 }
